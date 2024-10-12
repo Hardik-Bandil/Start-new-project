@@ -13,4 +13,5 @@ function newFeatureadd() {
 
 function newFeatureadd2() {
     console.log("this is second feature");
+    console.log("this is second latest feature");
 }
