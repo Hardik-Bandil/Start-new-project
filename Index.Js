@@ -37,3 +37,8 @@ function newFeatureadd6() {
     console.log("this is sixth feature");
     console.log("this is sixth latest feature");
 }
+
+function newFeatureadd7() {
+    console.log("this is seventh feature");
+    console.log("this is seventh latest feature");
+}
