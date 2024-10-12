@@ -10,3 +10,7 @@ function newFeatureadd() {
     console.log("this is new feature");
     console.log("this is add new feature");
 }
+
+function newFeatureadd2() {
+    console.log("this is second feature");
+}
