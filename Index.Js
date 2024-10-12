@@ -8,4 +8,5 @@ console.log('My Name is ${name}')
 
 function newFeatureadd() {
     console.log("this is new feature");
+    console.log("this is add new feature");
 }
