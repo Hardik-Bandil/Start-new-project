@@ -25,3 +25,15 @@ function newFeatureadd4() {
     console.log("this is fourth feature");
     console.log("this is fourth latest feature");
 }
+
+
+function newFeatureadd5() {
+    console.log("this is fifth feature");
+    console.log("this is fifth latest feature");
+}
+
+
+function newFeatureadd6() {
+    console.log("this is sixth feature");
+    console.log("this is sixth latest feature");
+}
